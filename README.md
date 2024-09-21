@@ -34,7 +34,7 @@ This Python script automates the configuration of Port-Channel (EtherChannel) in
 
 1. Run the script:
     ```bash
-    python port_channel_automation.py
+    python Layer_2_Port-Channel_Automation.py
     ```
 
 2. You will be prompted to provide the following inputs:
